@@ -2,7 +2,7 @@
 
 > This is a simple Rock-Paper-Scissors game made with HTML5, CSS3 and Javascript
 
-![screenshot](./assets/img/screenshot.png)
+![screenshot](/img/screenshot.png)
 
 ## :hammer: Built with:
 
