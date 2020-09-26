@@ -14,7 +14,7 @@
 
 ## :red_circle: Live Demo:
 
-[Live Demo Link](https://kcotrinam.github.io/rockPaperSissors/)
+[Live Demo Link](https://kcotrinam.github.io/Rock-Paper-Scissors/)
 
 ## :construction_worker: Getting Started
 
